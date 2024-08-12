@@ -21,11 +21,6 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-
-![Snake animation](https://raw.githubusercontent.com/mohammed-Alhusini/mohammed-Alhusini/.github/workflows/snake.ylm)
 
 
