@@ -1,5 +1,5 @@
-<h2 align="left">Hi! My name is Mohammed. 
-<br>I like to keep learning about deep learning</h2>
+<h3 align="left">Hi! My name is Mohammed. 
+<br>I like to keep learning about deep learning</h3>
 
 
 <div align="left">
