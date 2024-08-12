@@ -26,6 +26,6 @@
 <br clear="both">
 
 
-![Snake animation](https://raw.githubusercontent.com/mohammed-Alhusini/mohammed-Alhusini/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/mohammed-Alhusini/mohammed-Alhusini/.github/workflows/snake.ylm)
 
 
