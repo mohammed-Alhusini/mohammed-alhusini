@@ -25,10 +25,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mohammed-Alhusini/mohammed-Alhusini/output/snake.svg" alt="Snake animation" />
 
-###
-
-<p align="left">Hello World!!</p>
+![Snake animation](https://raw.githubusercontent.com/mohammed-Alhusini/mohammed-Alhusini/output/snake.svg)
 
 
