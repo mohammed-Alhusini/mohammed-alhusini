@@ -1,5 +1,5 @@
 <h3 align="left">Hi! My name is Mohammed 
-<br> I like to keep learning about deep learning</h3>
+<br> I like to keep learning about NLP</h3>
 
 ###
 
