@@ -21,7 +21,7 @@ I don’t claim to know everything (still learning, still googling), but I like 
 
 ---
 
-### 📫 Still learning. Happy to connect or help if I can.
+### 📫 Still learning. Happy to connect or help if I can
 
 <a href="mailto:aalhusini.m@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
