@@ -1,6 +1,6 @@
 <h2 align="left">Hey, I'm Mohammed 👋</h2>
 
-I'm currently a Software Engineering student at KFUPM trying to figure out how to make LLMs actually useful.
+I'm a Software Engineer trying to figure out how to make LLMs actually useful.
 
 I mostly enjoy working with NLP, search systems, and building quick projects that turn into real tools — even if they're a little messy at first. I’ve built things like a legal chatbot using RAG, a hotel search engine with sentence embeddings, and a movie scraper for VOX Cinemas just because I got curious.
 
