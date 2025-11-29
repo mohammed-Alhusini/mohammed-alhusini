@@ -1,35 +1,54 @@
-<h2 align="left">Hey, I'm Mohammed 👋</h2>
+<div align="center">
 
-I'm a Software Engineer trying to figure out how to make LLMs actually useful.
+<h1 align="center">Hey, I'm Mohammed 👋</h1>
 
-I mostly enjoy working with NLP, search systems, and building quick projects that turn into real tools — even if they're a little messy at first. I’ve built things like a legal chatbot using RAG, a hotel search engine with sentence embeddings, and a movie scraper for VOX Cinemas just because I got curious.
+### Software Engineer | AI, NLP & Making Things Talk
 
-I don’t claim to know everything (still learning, still googling), but I like trying. If it’s got to do with language, search, or audio, I’m probably into it.
+<p align="center">
+ <em>"I write code to make computers sound smart. Sometimes it actually works."</em>
+</p>
+
+<br/>
+
+</div>
+
+### 🤷‍♂️ Who am I?
+
+I'm a Software Engineer (and professional Googler) obsessed with the weird and wonderful world of **Artificial Intelligence**.
+
+My playground is usually **NLP** and **Voice** tech, but honestly? I just love trying new things. If there's a new model, library, or API out there, I probably want to poke it to see what happens.
+
+My philosophy is simple: **Try it. Break it. Fix it.** (And then maybe document it if I remember).
 
 ---
 
-### ⚙️ Stuff I Usually Break and Fix
+### 🛠️ My Toolkit
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="PyTorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="Selenium" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+The tools I use to build (and occasionally break) things:
+
+<div align="center">
+
+| **Languages** | **AI/ML** | **Tools** |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=python,js,cpp" height="40" alt="languages"/> | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" height="40" alt="ai"/> | <img src="https://skillicons.dev/icons?i=selenium,git,docker,linux" height="40" alt="tools"/> |
+
 </div>
 
 ---
 
-### 📫 Still learning. Happy to connect or help if I can
+### 🤙 Hit me up
 
-<a href="mailto:aalhusini.m@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+Always happy to chat about AI, code, or why my build failed.
+
+<div align="center">
+
+<a href="mailto:alhusaini.mohammed@outlook.com">
+  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mohammedalhuasini/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="https://www.linkedin.com/in/mohammedalhusini" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-</a>
-
-
+</div>
 
